@@ -44,7 +44,7 @@
 1. **Клонуй репозиторій:**
 
    ```bash
-   git clone https://github.com/valentina2209/your-repo-name.git
+   git clone https://github.com/valentina2209/puzzle-project
    cd your-repo-name
    ```
 
