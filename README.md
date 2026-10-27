@@ -45,7 +45,7 @@
 
    ```bash
    git clone https://github.com/valentina2209/puzzle-project
-   cd your-repo-name
+   cd puzzle-project
    ```
 
 2. **Встанови залежності:**
